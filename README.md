@@ -1,1 +1,2 @@
-# Frontend Mentor - Base Apparel coming soon page
+# Frontend Mentor - Coming soon page
+https://sunjus.github.io/comingsoonpage/
